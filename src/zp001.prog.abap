@@ -7,3 +7,4 @@ REPORT ZP001.
 
 
 WRITE:'asdfadf'.
+WRITE:'asdfadf22222'.
